@@ -1,0 +1,7 @@
+﻿id,devicetype,macaddress,regtime,name,location,configtime,updatetime,repeaterid,deviceconfigrequired
+85,repeater-node,84:CC:A8:88:7A:78,"2023-02-08 20:49:07",R2,"Cognifront Lab","2023-02-08 21:40:13","2023-02-08 21:41:30",89,0
+86,sensor-node,30:83:98:80:04:84,"2023-02-08 20:51:04",S2,"Cognifront Lab","2023-02-08 21:39:45","2023-02-08 21:42:13",85,0
+87,sensor-node,5C:CF:7F:57:26:FE,"2023-02-08 20:56:44",S1,"Cognifront Lab","2023-02-08 21:04:18","2023-02-08 21:41:53",88,0
+88,repeater-node,C4:5B:BE:70:D0:A2,"2023-02-08 21:01:29",R1,"Cognifront Lab","2023-02-08 21:40:32","2023-02-08 21:41:22",90,0
+89,coordinator-node,A4:CF:12:C7:96:B7,"2023-02-08 21:02:52",Coordinator,,"2023-02-08 21:02:52","2023-02-08 21:02:52",-1,0
+90,coordinator-node,A4:CF:12:C7:92:85,"2023-02-08 21:02:56",Coordinator,,"2023-02-08 21:02:56","2023-02-08 21:02:56",-1,0

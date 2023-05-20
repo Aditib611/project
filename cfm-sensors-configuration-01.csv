@@ -1,0 +1,7 @@
+﻿id,devicetype,macaddress,regtime,name,location,configtime,updatetime,repeaterid,deviceconfigrequired
+2,sensor-node,5C:CF:7F:57:26:FE,"2023-02-01 00:40:37","Small Room Floor Near Shelf","Cognifront Lab","2023-02-01 22:29:16","2023-02-01 01:42:58",4,0
+3,coordinator-node,A4:CF:12:C7:96:B7,"2023-02-01 01:20:56",Coordinator,,"2023-02-01 01:20:56","2023-02-01 01:20:56",-1,0
+4,repeater-node,C4:5B:BE:70:D0:A2,"2023-02-01 01:42:06",R01,"Cognifront Lab","2023-02-01 21:36:29","2023-02-01 21:36:46",5,0
+5,repeater-node,84:CC:A8:88:7A:78,"2023-02-01 21:35:45",R02,"Red Stool","2023-02-01 21:36:23","2023-02-01 21:36:36",3,0
+6,sensor-node,30:83:98:80:04:84,"2023-02-01 22:27:51","Master Room Near Cupboard DHT11","Cognifront Lab","2023-02-01 22:30:52","2023-02-01 22:29:58",4,0
+7,coordinator-node,E8:68:E7:CE:30:DD,"2023-02-01 22:43:49",Coordinator,,"2023-02-01 22:43:49","2023-02-01 22:43:49",-1,0
